@@ -230,7 +230,7 @@ span {
 @media screen and (max-width: 1000px) {
   .title {
     font-size: 4rem;
-    line-height: 
+    line-height: 1rem;
   }
   
   .title > p {
